@@ -80,14 +80,19 @@ Study project of website desigh [(_Melody of flowers_)](https://www.figma.com/de
 ## **Education**:
 
 2013 - economics and management (university)
+
 2015 - jurisprudence (university)
+
 2022 - testing courses
+
 2023 - graphic design courses
+
 2023 - red rover school (java script basics)
 
 ---
 
 ## **Languages**:
 
-_Russian_: Native
-_English_: Pre-Intermediate (А2)
+**Russian**: Native
+
+**English**: Pre-Intermediate (А2)
