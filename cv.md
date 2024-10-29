@@ -4,6 +4,8 @@
 
 # **Elena Andreeva**
 
+![Andreeva Elena](AndreevaElena.png)
+
 ---
 
 ### Junior Frontend Developer
