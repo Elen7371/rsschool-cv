@@ -18,7 +18,7 @@
 
 **Telegram:** @Elena_7371
 
-[**linkedIn**](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+[**linkedIn**](https://www.linkedin.com/in/elen-andreeva-abab16289/)
 
 ---
 
@@ -28,7 +28,7 @@ My goal is to change the scope of my work, change my life.
 
 I'm very purposeful. I achieve almost any goal I set for myself and do it efficiently. I know how to enjoy the work done. In addition, I have good soft skills and easily approach people
 
-I have experience as an economist but I want more. I want to become part of a big team in IT-company and make a cool product. This really inspires me. I have good soft skills and I easily find an approach to people
+I have experience as an economist but I want more. I want to become part of a big team in IT-company and make a cool product. This really inspires me.
 
 I tried to find myself in testing and graphic design, but I realized that front-end development is what really energizes me. Therefore, I have embarked on this difficult and long path right now, but I believe that I will go through it successfully and with pleasure.
 
@@ -73,7 +73,13 @@ function redarr(arr) {
 
 ## **Projects**:
 
-Study project of website desigh [(_Melody of flowers_)](https://www.figma.com/design/zMOxSXzELpNAVj7vDYeGu6/Website-design%3A-Melody-of-flowers?node-id=0-1&t=avGnezwMKztp96nI-1) - online store for handmade polymer clay jewelry.
+- [Study project of website desigh(_Melody of flowers_)](https://www.figma.com/design/zMOxSXzELpNAVj7vDYeGu6/Website-design%3A-Melody-of-flowers?node-id=0-1&t=avGnezwMKztp96nI-1) - online store for handmade polymer clay jewelry.
+
+- [Study project - Shelter - rss-school](https://elen7371.github.io/shelter/shelter/pages/main/)
+
+- [Study project - Random-game - rss-school](https://elen7371.github.io/shelter/random-game/)
+
+- [Study project - Meme slider - rss-school](https://elen7371.github.io/cssMemeSlider/cssMemeSlider/)
 
 ---
 
@@ -85,9 +91,13 @@ Study project of website desigh [(_Melody of flowers_)](https://www.figma.com/de
 
 2022 - testing courses
 
+2023 - interactive simulator SQL (stepik.org)
+
 2023 - graphic design courses
 
 2023 - red rover school (java script basics)
+
+2024 - rolling scopes school
 
 ---
 
@@ -95,4 +105,4 @@ Study project of website desigh [(_Melody of flowers_)](https://www.figma.com/de
 
 **Russian**: Native
 
-**English**: Pre-Intermediate (А2)
+**English**: Pre-Intermediate/Intermediate (А2/B1)
