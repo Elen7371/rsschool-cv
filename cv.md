@@ -107,4 +107,4 @@ function redarr(arr) {
 
 **Russian**: Native
 
-**English**: Pre-Intermediate/Intermediate (А2/B1)
+**English**: Pre-Intermediate (А2)
